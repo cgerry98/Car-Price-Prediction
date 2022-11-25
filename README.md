@@ -1,5 +1,5 @@
 # Cars
-This is a group project from our Regression Analysis Class.
+This is a group project from our Regression Analysis Class. The data was downloaded from Kaggle.
 
 Motivation for this project: 
 We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary
