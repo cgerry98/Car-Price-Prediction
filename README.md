@@ -9,4 +9,4 @@ be a good way for management to understand the pricing dynamics of a new market.
 Summary: We cleaned the dataset(by manually changing character data to factored and fixing mispelled data) , checked for multicollinearity by using heat map, 
 used backwards stepwise regression to select our best model, introduced interaction terms manually(choose model), checked the 4 conditions of MLR(we transformed
 our predictor using boxcox), and finally checked for outliers(no outliers).
-Group members: Gerry Cruz & Yushan Zhao.
+Group members: Gerry Cruz,Yushan Zhao, and Kierra Manuel.
