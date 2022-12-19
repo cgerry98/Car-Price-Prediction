@@ -28,5 +28,5 @@ I am learning and applying Supervised Learning Techniques to see if I can achive
 Future Work:
 ############
 
-I plan on Learning and applying Unsupervised Learning Techniques to the Dataset to see if I can find anything interesting .
+I plan on learning and applying Unsupervised Learning Techniques to the Dataset to see if I can find anything interesting .
 
