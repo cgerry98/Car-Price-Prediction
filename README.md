@@ -1,6 +1,6 @@
 ## Cars
 
-#Previously
+#Previously:
 
 This is a group project from our Regression Analysis Class. The data was downloaded from Kaggle.
 
