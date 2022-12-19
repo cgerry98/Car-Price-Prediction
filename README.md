@@ -1,6 +1,8 @@
 ## Cars
 
-#Previously:
+##########
+Previously:
+##########
 
 This is a group project from our Regression Analysis Class. The data was downloaded from Kaggle.
 
@@ -15,10 +17,16 @@ our predictor using boxcox), and finally checked for outliers(no outliers).
 Group members: Gerry Cruz,Yushan Zhao, and Kierra Manuel.
 
 
-#Currently:
+##########
+Currently:
+##########
+
 I am learning and applying Supervised Learning Techniques to see if I can achive a better prediction.
 
-#Future Work:
+
+############
+Future Work:
+############
 
 I plan on Learning and applying Unsupervised Learning Techniques to the Dataset to see if I can find anything interesting .
 
